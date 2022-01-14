@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ObseravabilityEasyDebug": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\git\\orion\\src\\web\\src\\SolarWinds.IPAM\\SolarWinds.IPAM.Web.Common\\bin\\Debug\\net48 \\\\TKAJD-R01\\Orion"
+    }
+  }
+}
